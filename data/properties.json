@@ -1,0 +1,35 @@
+[
+  {
+    "id": "val_3b893aa63fc3",
+    "address": "Calle Segunda 1234, Zona Centro, Tijuana",
+    "name": "Juan Perez",
+    "email": "juan@test.com",
+    "phone": "664-999-8888",
+    "condition": "Brand new",
+    "urgency": "Immediately",
+    "coments": "Penthouse suite with panoramic view",
+    "lat": 32.53,
+    "lng": -117.04,
+    "valuationEstimate": {
+      "currency": "USD",
+      "estimatedMidpoint": 285000,
+      "rangeLow": 265000,
+      "rangeHigh": 305000,
+      "confidence": "Automated Preliminary Geospatial Valuation"
+    },
+    "createdAt": "2026-09-27T01:50:41.933Z"
+  },
+  {
+    "id": "prop_demo_1",
+    "address": "Av. Paseo de los Héroes 95, Zona Urbana Rio Tijuana, Tijuana, B.C.",
+    "name": "Carlos Alvarez",
+    "email": "carlos@example.com",
+    "phone": "+52 (664) 123-4567",
+    "condition": "Very good",
+    "urgency": "Soon",
+    "coments": "Prime corner commercial / residential zone, fully updated infrastructure.",
+    "lat": 32.514946,
+    "lng": -117.038246,
+    "createdAt": "2026-09-27T01:50:41.046Z"
+  }
+]

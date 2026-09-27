@@ -1,0 +1,31 @@
+{
+  "name": "valua-api",
+  "version": "1.0.0",
+  "description": "Secure Backend REST API for Valua PropTech Property Valuation Platform",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "valua",
+    "proptech",
+    "real-estate",
+    "valuation",
+    "api",
+    "express"
+  ],
+  "author": "Donato Alvarez",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.2.0",
+    "helmet": "^7.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
